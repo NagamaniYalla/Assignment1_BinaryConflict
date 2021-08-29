@@ -1,1 +1,2 @@
 # Assignment1_BinaryConflict
+making few modifictations
